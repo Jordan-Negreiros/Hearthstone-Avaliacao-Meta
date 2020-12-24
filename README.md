@@ -1,6 +1,6 @@
 # Projeto Hearthstone
 
-Projeto desenvolvido para Avaliação A - Desenvolvedor Java
+Projeto desenvolvido para Avaliação A - Desenvolvedor Java, utilizando Quarkus Framework e Java 11.
 
 ## Para rodar a aplicação em modo de desenvolvimento
 
